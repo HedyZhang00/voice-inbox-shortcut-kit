@@ -37,7 +37,7 @@ Action 键
 
 ## 快速开始
 
-1. 复制或创建飞书空白模板，参见 [`docs/setup-feishu.md`](docs/setup-feishu.md)。
+1. [打开并复制飞书空白模板](https://my.feishu.cn/base/FURsb8sKgaNT5Fst1daccGVnnld)，或参见 [`docs/setup-feishu.md`](docs/setup-feishu.md) 手动建表。
 2. 复制 `config/feishu_config.example.json` 为 `config/feishu_config.json`。
 3. 把 App Secret 存入 macOS 钥匙串。
 4. 运行生成器并导入 iPhone，参见 [`docs/setup-iphone.md`](docs/setup-iphone.md)。
@@ -73,7 +73,7 @@ Action 键
 
 - 第一版使用本机关键词区分普通灵感、提醒事项和日程，不调用 AI 分类接口。
 - 生成步骤需要 Mac；安装后日常采集不需要 Mac。
-- 公开飞书在线模板的复制链接需要由模板所有者在飞书内开启分享。
+- 飞书在线模板只包含字段结构，不包含任何私人记录。
 
 ## License
 
