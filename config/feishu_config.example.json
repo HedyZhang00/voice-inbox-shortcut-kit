@@ -1,0 +1,23 @@
+{
+  "app_id": "cli_xxxxxxxxxxxxxxxx",
+  "app_token": "bascnxxxxxxxxxxxxxxxx",
+  "table_id": "tblxxxxxxxxxxxxxxxx",
+  "app_secret_keychain_service": "linggan-voice-inbox.feishu",
+  "app_secret_keychain_account": "your-feishu-app-id",
+  "reminder_list": "提醒事项",
+  "calendar_name": "个人",
+  "field_names": {
+    "text": "文本",
+    "idea_id": "灵感ID",
+    "note": "灵感备注",
+    "source_platform": "来源平台",
+    "capture_method": "采集方式",
+    "input_type": "输入类型",
+    "action_status": "行动状态",
+    "sync_status": "本地同步状态",
+    "next_use": "下一步用途",
+    "implementation_path": "实现路径",
+    "importance": "重要度",
+    "status": "状态"
+  }
+}
