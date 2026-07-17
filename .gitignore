@@ -1,0 +1,11 @@
+*.shortcut
+*.unsigned.shortcut
+config/feishu_config.json
+.env
+dist/*
+!dist/.gitkeep
+__pycache__/
+*.pyc
+*.log
+*-auth-qr.png
+.DS_Store
