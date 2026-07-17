@@ -2,7 +2,8 @@
 
 ## 1. 创建多维表格
 
-推荐直接复制公开模板。模板尚未发布时，可按
+推荐直接[打开并复制公开模板](https://my.feishu.cn/base/FURsb8sKgaNT5Fst1daccGVnnld)。
+也可按
 [`templates/feishu-base-schema.json`](../templates/feishu-base-schema.json)
 中的字段创建一个空白多维表格。
 
